@@ -4,11 +4,9 @@
 
 This project analyzes credit card transactions in Argentina to understand customer behavior and spending patterns.
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 
-![Dashboard](https://chatgpt.com/c/images/dashboard.png)
-
-## 📂 Dataset Description
+📂 Dataset Description
 
 * Transactions data
 * Customer information
